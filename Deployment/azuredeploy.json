@@ -20,7 +20,7 @@
         "appName": {
             "type": "string",
             "minLength": 1,
-            "defaultValue": "Say Hello",
+            "defaultValue": "Say Hello - FSC",
             "metadata": {
                 "description": "The app name to use for the resources that will be provisioned."
             }
@@ -53,7 +53,7 @@
         "DefaultCulture": {
             "defaultValue": "en-US",
             "minLength": 1,
-            "type": "String",
+            "type": "string",
             "metadata": {
                 "description": "Default culture."
             }
@@ -168,7 +168,7 @@
         "gitRepoUrl": {
             "type": "string",
             "minLength": 1,
-            "defaultValue": "https://github.com/gtknowledgeshare/microsoft-teams-apps-sayhello.git",
+            "defaultValue": "https://github.com/gtknowledgeshare/microsoft-teams-apps-sayhello-FSC.git",
             "metadata": {
               "description": "The URL to the GitHub repository to deploy."
             }
