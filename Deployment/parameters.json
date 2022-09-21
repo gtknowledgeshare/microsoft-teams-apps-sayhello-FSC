@@ -72,7 +72,7 @@
     "Description": "The app (and bot) description."
   },
   "appIconUrl": {
-    "Value": "https://raw.githubusercontent.com/gtknowledgeshare/microsoft-teams-apps-sayhello/main/Manifest/color.png",
+    "Value": "https://raw.githubusercontent.com/gtknowledgeshare/microsoft-teams-apps-sayhello-FSC/0dc5acd4beddee7dcb06ecc89f4c9f366f3ec4fd/Manifest/color.png",
     "Description": "The link to the icon for the app. It must resolve to a PNG file."
   },
   "companyName": {
