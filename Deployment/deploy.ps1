@@ -355,7 +355,7 @@ function DeployARMTemplate {
         $appServiceName = $deploymentOutput.properties.Outputs.appServiceName.Value
         
         WriteSuccess "Finished deploying resources. ARM template deployment succeeded."
-<#
+
 
         # sync app services code deployment (ARM deployment will not sync automatically)
         WriteInfo "Sync $($parameters.baseResourceName.Value) code from latest version"
@@ -376,7 +376,7 @@ function DeployARMTemplate {
     }
 }
 
-#>
+
 # Update manifest file and create a .zip file.
 function GenerateAppManifestPackage {
     Param(
