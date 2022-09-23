@@ -64,7 +64,7 @@
     "Description": "The branch of the GitHub repository to deploy."
   },
   "appDisplayName": {
-    "Value": "Say Hello Weekly",
+    "Value": "Say Hello Monthly - FSC",
     "Description": "The app (and bot) display name."
   },
   "appDescription": {
