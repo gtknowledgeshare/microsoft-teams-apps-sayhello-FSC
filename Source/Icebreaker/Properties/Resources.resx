@@ -142,11 +142,15 @@
     <comment>Install message and also the welcome message when the app installer is known - {0} is the placeholder for the name of the user that has installed the app to the team, and {1} is the placeholder for the name of the team that the app has been installed to</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart2" xml:space="preserve">
-    <value>Given our ever growing department and engagements, this is a great way to meet people who you might not otherwise get to meet, and also maybe catch up with colleagues from previous engagements.</value>
+    <value>Say Hello is a bot in the FSC team that will pair you randomly with someone different each month, with whom you will meet up for a coffee and a chat to get to know one another, and also hear what people are working on across FSC.
+    Given our ever growing department and engagements, this is a great way to meet people who you might not otherwise get to meet, and also maybe catch up with colleagues from previous engagements.</value>
     <comment>Part 2 of the install message when the name of the installer is known</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart3" xml:space="preserve">
-    <value>You will be notified by MS Teams message of your pairing on the first Monday of every month @10am. To opt out of **Say Hello**, simply click on ‘Pause Pairings’, you can resume whenever you feel like it.</value>
+    <value>You will be notified by an MS Teams message of your pairing on the 10th of every month @ 10am. 
+    It is up to each pairing to schedule a date and time that suits to meet. 
+    
+    To opt out of **Say Hello**, simply click on ‘Pause Pairings’, you can resume whenever you feel like it.</value>
     <comment>Part 3 of the install message with the name of the installer known</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart1" xml:space="preserve">
@@ -170,7 +174,13 @@
     <comment>Second part of the pairing up card main content</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
-    <value>This week you have been paired with **{0}**.</value>
+    <value>This month you have been paired with **{0}** to meet up for a coffee and a chat (preferably in person).
+
+    This is a great way to meet people across FSC, so make sure to get your catch-up scheduled as soon as possible! 
+
+    If you have any questions, please feel free to reach out to **FS Consulting Comms.**
+    
+    Enjoy and get chatting!</value>
     <comment>The text saying who the user has been paired up with</comment>
   </data>
   <data name="MatchUpCardTitleContent" xml:space="preserve">
